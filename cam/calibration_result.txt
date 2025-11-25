@@ -1,0 +1,3 @@
+slope a=0.099461
+intercept b=-6.869624
+method=robust_std_first

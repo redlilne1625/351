@@ -1,0 +1,2 @@
+Power model: a=0.889968 b=0.201505
+Voltage model: alpha=1.795461 beta=5.964566
